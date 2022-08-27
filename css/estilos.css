@@ -1,0 +1,41 @@
+.caja {
+  background: #ffffff;
+  border: 1px solid gray;
+  border-radius: 12px;
+  padding: 10px;
+}
+
+footer {
+  background: #212529;
+}
+
+.caja2 {
+  background-color: goldenrod;
+}
+
+.card{
+  padding: 10px;
+}
+
+.margin-bottom{
+  margin-bottom: 10px;
+}
+
+.img-nuevas{
+  height: 200px;
+  width: fit-content;
+  margin: 0 auto;
+  max-width: 100%;
+}
+
+.comentarios{
+  width: 80%;
+  margin: 0 auto;
+}
+
+.container-comentario{
+  padding: 10px;
+  border: 1px solid black;
+    margin-bottom: 10px;
+    border-radius: 10px;
+}
